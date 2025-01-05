@@ -5,3 +5,5 @@ If you're into platforms like TryHackMe, HackTheBox, VulnHub, CTFlearn, and more
 This repository organizes solved challenges from various platforms with links to the challenges and detailed walkthroughs, categorized by difficulty. Currently, it features writeups for TryHackMe with more platforms and content coming soon.
 
 Happy hacking :)
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1660402)
