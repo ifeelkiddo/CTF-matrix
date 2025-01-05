@@ -7,3 +7,4 @@ This repository organizes solved challenges from various platforms with links to
 Happy hacking :)
 
 ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1660402)
+
